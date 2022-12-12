@@ -4,7 +4,7 @@
 	"description": "javascript project for making a REST dynamodb interface",
 	"main": "app.js",
 	"dependencies": {
-		 "express": "^4.17.1"
+		 "express": "^4.17.3"
 	},
 	"devDependencies": {
 		 "jest": "^25.1.0"
